@@ -1,1 +1,2 @@
+Hi, i am master.
 This is my first commit!
